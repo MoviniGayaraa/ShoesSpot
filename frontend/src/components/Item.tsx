@@ -74,11 +74,11 @@ const Item: React.FC<ItemProps> = ({
         </div>
         <div>
           <span className={"flex items-center mt-1 p-1 rounded py-2"}>
-            <FaStar className="text-yellow-500 text-lg mr-1" />
-            <FaStar className="text-yellow-500 text-lg mr-1" />
-            <FaStar className="text-yellow-500 text-lg mr-1" />
-            <FaStarHalfStroke className="text-yellow-500 text-lg mr-1" />
-            <FaRegStar className="text-yellow-500 text-lg mr-1" />
+            <FaStar className="text-green-700 text-lg mr-1" />
+            <FaStar className="text-green-700 text-lg mr-1" />
+            <FaStar className="text-green-700 text-lg mr-1" />
+            <FaStarHalfStroke className="text-green-700 text-lg mr-1" />
+            <FaRegStar className="text-green-700 text-lg mr-1" />
             <span className={"text-xs ml-2 text-gray-500"}>Reviews</span>
           </span>
         </div>

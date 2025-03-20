@@ -2,7 +2,7 @@ const ProductDescription = () => {
   return (
     <div className="mt-20">
       <div className="flex gap-3 mb-4">
-        <button className="btn_dark_rounded !rounded-none !text-xs !py-[6px] w-36">
+        <button className="btn_Light_rounded !rounded-none !text-xs !py-[6px] w-36">
           Description
         </button>
         <button className="btn_Light_outline !rounded-none !text-xs !py-[6px] w-36">

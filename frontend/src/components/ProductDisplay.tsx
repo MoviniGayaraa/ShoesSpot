@@ -27,7 +27,7 @@ const ProductDisplay = (props) => {
         </div>
         <div className="flex-col flex xl:flex-[1.7]">
           <h3 className="h3">{product.name}</h3>
-          <div className="flex gap-x-2 text-[#feaf00] medium-22">
+          <div className="flex gap-x-2 text-[#75b100] medium-22">
             <MdStar />
             <MdStar />
             <MdStar />
